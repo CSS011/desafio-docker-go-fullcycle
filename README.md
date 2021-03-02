@@ -1,0 +1,1 @@
+imagem GO: css011/desafio-docker-go-fullcycle:latest
